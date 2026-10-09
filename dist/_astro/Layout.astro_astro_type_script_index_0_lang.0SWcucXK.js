@@ -1,0 +1,1 @@
+import{r as e}from"./themeConfig.C0knjlRi.js";var t=localStorage.getItem(`tui_theme`)||`green`;e(t);
